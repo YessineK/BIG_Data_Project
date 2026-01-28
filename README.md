@@ -7,16 +7,7 @@ Il permet d’identifier les effets indésirables, les médicaments à haut risq
 
 Projet réalisé dans le cadre du module Architecture Big Data Distribuée à la Faculté des Sciences de Sfax.
 
-👨‍🎓 Réalisé par
 
-Yessine Karray
-
-📅 Soutenu le : 20/12/2024
-👨‍🏫 Encadrants :
-
-Mr Mohamed Ali HadjTaib (Cours)
-
-Mr Montassar Akremi (TP)
 
 🎯 Objectifs
 
@@ -44,8 +35,10 @@ Gravité des événements
 
 Dates de déclaration
 
+
 🏗️ Architectures mises en œuvre
-🔹 Architecture 1 : Pipeline Big Data Complet
+
+#🔹Pipeline Big Data Complet
 
 Kafka + Spark + Hadoop + Hive + Superset
 
@@ -63,19 +56,6 @@ Superset : visualisation et dashboards
 
 📌 Architecture haute disponibilité (3 nœuds, réplication, tolérance aux pannes)
 
-🔹 Architecture 2 : Architecture Analytique Haute Performance
-
-Spark + Apache Doris + Superset
-
-Caractéristiques :
-
-Base analytique columnaire
-
-Exécution SQL ultra-rapide
-
-Réplication backend
-
-Visualisation directe avec Superset
 
 🧩 Technologies utilisées
 
@@ -112,7 +92,7 @@ Python (Kafka Producer, Spark Consumer)
 │   └── hive-site.xml
 └── README.md
 
-▶️ Exécution (Architecture 1)
+▶️ Exécution  
 
 Démarrer Hadoop & YARN
 
