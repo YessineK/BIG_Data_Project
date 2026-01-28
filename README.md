@@ -1,4 +1,5 @@
-🧠 Architecture Big Data Distribuée pour l’Analyse des Risques Médicamenteux
+# Architecture Big Data Distribuée pour l’Analyse des Risques Médicamenteux
+
 📌 Présentation du projet
 
 Ce projet Big Data vise à analyser les risques médicamenteux à partir des données publiques de l’API OpenFDA.
