@@ -29,7 +29,9 @@
 Ce projet Big Data vise à analyser les **risques médicamenteux** à partir des données publiques de l'**API OpenFDA**. Il permet d'identifier les effets indésirables, les médicaments à haut risque et d'extraire des indicateurs d'aide à la décision pour les professionnels de santé.
 
  
-[▶️ Voir la vidéo illustratif : (Google Drive)]([https://drive.google.com/file/d/1dbZ--5kpUKimRKwbaM1u1HO2CbkuVwRJ/view?usp=sharing](https://drive.google.com/file/d/15teSPf18bpE39t9JDvwGGWOwUpBF5fhh/view?usp=sharing))
+## 🎥 Démonstration du projet
+
+👉 [▶️ Regarder la vidéo (Google Drive)](https://drive.google.com/file/d/15teSPf18bpE39t9JDvwGGWOwUpBF5fhh/view?usp=sharing)
 
 ### 📊 Source de Données
 
